@@ -1,6 +1,4 @@
-# 🧑‍💻 Portfólio de Ciência de Dados
-
-![Minha Foto](sua-foto.jpg) 
+# 🧑‍💻 Portfólio - Ciência de Dados
 
 ## Sobre Mim
 
