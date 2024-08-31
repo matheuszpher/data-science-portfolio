@@ -1,4 +1,6 @@
-![Loggi Logo](https://example.com/path-to-loggi-logo.png) 
+<p align="center">
+  <img src="https://github.com/matheuszpher/data-science-portfolio/blob/main/eda-logistics-loggi/loggi%20logo.png" alt="Loggi Logo" width="300"/>
+<p/>
 
 # 📊 Análise Exploratória de Dados - Loggi
 
