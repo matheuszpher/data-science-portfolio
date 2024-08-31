@@ -2,9 +2,13 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é **Matheus Rodrigues** e sou estudante de **Engenharia de Software na Universidade Federal do Ceará** e **profissional da área de dados** apaixonado por transformar dados em insights valiosos. Tenho experiência em análise de dados, aprendizado de máquina e visualização, sempre focado em resolver problemas complexos e ajudar organizações a tomar decisões estratégicas.
+<p align="left">
+  <img src="https://github.com/matheuszpher/data-science-portfolio/blob/main/me.png" alt="Me" width="150"/>
+<p/>
+  
+Olá! Me chamo **Matheus Rodrigues** sou estudante de **Engenharia de Software na Universidade Federal do Ceará** e **profissional da área de dados** apaixonado por transformar dados em insights. Tenho experiência em análise de dados, aprendizado de máquina e visualização, sempre focado em resolver problemas e ajudar organizações a tomar decisões estratégicas.
 
-Sou um profissional de dados com sólida experiência em:
+Possuo sólida experiência em:
 
 - **Estatística para Ciência de Dados** 📊: **Acurácia**, **Precisão e Recall**, **F1-Score**, **Curva ROC**, **AUC**, **MSE**, **MAE**, **R²**, **Teste de Hipóteses** e **Intervalos de Confiança**.
 - **Python** 🐍: **Seaborn**, **Pandas**, **NumPy**, **GeoPy**, **JSON**.
