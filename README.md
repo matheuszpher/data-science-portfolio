@@ -21,7 +21,7 @@ Possuo sólida experiência em:
 ## Histórico Profissional
 
 ### MeuMonitor (08/2023 - Atual) 
-**Analista de Dados** 🔍
+**Analista de Dados - Voluntário** 🔍
 
 - Análise e preparação de grandes conjuntos de dados com Python.
 - Desenvolvimento de scripts para coleta e processamento de dados.
