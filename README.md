@@ -12,6 +12,7 @@ Possuo sólida experiência em:
 
 - **Estatística para Ciência de Dados** 📊: **Acurácia**, **Precisão e Recall**, **F1-Score**, **Curva ROC**, **AUC**, **MSE**, **MAE**, **R²**, **Teste de Hipóteses** e **Intervalos de Confiança**.
 - **Python** 🐍: **Seaborn**, **Pandas**, **NumPy**, **GeoPy**, **JSON**.
+- **RPA** 🤖: **UiPath**.
 - **SQL** 🗃️: **Bancos de dados relacionais**.
 - **Machine Learning** 🤖: **TensorFlow**, **PyTorch**, **Keras**, **Scikit-Learn**.
 - **Visualização de Dados** 📈: **Power BI**, **Google Data Studio**.
